@@ -6,6 +6,7 @@ fun main() {
     val short = 1203
     val byte = 6
 
+
     println("""
     int: $int
     double: $double
